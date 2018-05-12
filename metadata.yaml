@@ -1,0 +1,32 @@
+_repo: Chapters-in-Rural-Progress_26975
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Butterfield, Kenyon L. (Kenyon Leech)
+    birthdate: 1868
+    deathdate: 1935
+    gutenberg_agent_id: '32380'
+    url: http://www.gutenberg.org/2009/agents/32380
+description: 'Introduction : The study of rural life ; The problems of progress --
+  The outlook : The expansion of farm life ; The new farmer ; Culture from the corn-lot
+  -- Agencies of progress : Education for the farmer ; Farmers'' institutes ; The
+  Hesperia movement ; The rural school and the community ; The grange ; Opportunities
+  for farm women ; The country church and progress ; A summary of recent progress
+  -- Forward steps : The social side of the farm question ; The needs of New England
+  agriculture ; An untilled field in American education ; Federation for rural progress.'
+gutenberg_issued: '2008-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26975'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Agriculture -- United States'
+- !lcc 'S'
+title: Chapters in Rural Progress
+url: http://www.gutenberg.org/ebooks/26975
